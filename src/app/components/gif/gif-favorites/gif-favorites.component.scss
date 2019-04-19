@@ -1,0 +1,33 @@
+.mat-card-actions {
+  display: flex;
+}
+
+.mat-button {
+  margin: 0 auto !important;
+}
+
+.mat-card-image {
+  margin-bottom: 0px;
+}
+
+.favorites-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.result {
+  max-width: 300px;
+  margin: 10px;
+}
+
+.favorites {
+  width: 100%;
+}
+
+.favorites-heading {
+  margin: 30px 0 20px;
+  text-align: center;
+  color: #333;
+}

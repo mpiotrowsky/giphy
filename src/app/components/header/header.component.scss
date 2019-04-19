@@ -1,0 +1,17 @@
+mat-toolbar {
+  height: 7.5vh;
+  position: fixed;
+  z-index: 2;
+}
+
+.header {
+  margin-left: 2.5vw;
+  margin-right: 2.5vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  &-h1 {
+    color: #333;
+  }
+}

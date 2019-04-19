@@ -1,0 +1,19 @@
+.search-form {
+  display: flex;
+  justify-content: center;
+}
+
+.search-form-imput-box {
+  width: 25%;
+}
+
+@media only screen and (max-width: 720px) {
+  .search-form-imput-box {
+    width: 50%;
+  }
+}
+
+.search-form-button-box {
+  margin-left: 10px;
+  padding: 0;
+}

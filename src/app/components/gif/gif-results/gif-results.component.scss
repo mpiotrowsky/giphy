@@ -1,0 +1,23 @@
+.mat-card-actions {
+  display: flex;
+}
+
+.mat-button {
+  margin: 0 auto !important;
+}
+
+.mat-card-image {
+  margin-bottom: 0px;
+}
+
+.results-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.result {
+  max-width: 300px;
+  margin: 10px;
+}
